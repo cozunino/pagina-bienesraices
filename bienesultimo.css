@@ -1,0 +1,461 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: :0px;
+    
+}
+
+header {
+    
+    background-image: url("img/header.jpg"); 
+    font-family: sans-serif;
+    color: white;
+    
+
+}
+
+.nos {
+    background-image: none;
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+    
+
+}
+
+.hspan {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav {
+    
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    justify-content: flex-end;
+    padding-top: 20px;
+    margin-right: 10px;
+    
+    
+}
+
+
+.logonav {
+    display: inline-block;
+    margin-left: 50px;
+    padding-top: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    
+}
+
+
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.container {
+   
+    font-family: sans-serif;
+     
+}
+
+
+.h2container{
+    
+    margin-top: 600px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+
+    
+}
+
+.h2 {
+    color: white;
+    
+    padding-top: 5px;
+    padding-bottom: 40px;
+   
+    
+}
+
+.uno {
+    
+    color: black;
+    display: flex;
+    
+}
+
+.contieneuno {
+    
+    display: inline-block;
+    text-align: center; 
+    padding: 5px;
+    
+}
+
+h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.h1body {
+    
+    text-align: center;
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+
+
+
+.dos {
+    
+    margin-left: 20px;
+    margin-right: 80%;
+    display: flex;
+    color: black;
+    
+}
+
+.grupo {
+    
+    background-color: lightgray;
+    border: solid;
+    border-color: grey;
+    justify-content: space-between;
+    margin-right: 5%;
+    margin-bottom: 20px;
+    
+    
+}
+
+.contenedores {
+    
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+     
+    
+}
+
+
+.imgcontenedor {
+    
+    
+}
+
+
+.h1grupo {
+    
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.precio {
+    color: #66CE15;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.iconogrupo {
+    
+    display: inline-block;
+    padding: 5px;
+}
+
+.numeros {
+    display: inline-block;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.boton {
+    background-color: #E58F1A;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+    
+
+}
+
+.bot {
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.botontodas {
+    display: inline-block;
+    background-color: #6CBE15;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 20px;
+    margin-left: 1050px;
+    justify-content: flex-end;
+       
+    
+}
+
+.tres {
+    
+    margin-bottom: 20px;
+    color: white;
+    background-image: url(img/encuentra.jpg);
+}
+
+
+.boton3 {
+    display: inline-block;
+    background-color: #E58F1A;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 60%;
+    margin-bottom: 50px;
+    
+
+}
+
+.h1tres{
+    display: inline-block;
+    text-align: right;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    margin-left: 60px;
+    font-weight: bold;
+}
+
+.ptres {
+    display: block;
+    color: white;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    
+}
+
+.cuatro{
+    
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+   
+
+.flex {
+    display: flex;
+    
+    
+}
+
+.blog{
+    
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.imgblog {
+    margin-left:40px;
+    padding-bottom: 10px;
+}
+
+
+
+.tituloblog {
+    
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    
+      
+    }
+
+.h1blog {
+    
+   display: inline-block;
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: lighter;
+    font-size: 30px;
+    padding: 20px;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+.pdistinto {
+    padding-top: 5px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.pblog {
+    padding-bottom: 20px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.comentario {
+    
+    color: white;
+    background-color: #6CBE15;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-left: 80px;
+    text-align: left;
+}
+
+.verde {
+    padding-bottom: 10px;
+    padding-left: 55px;
+    padding-right: 30px;
+}
+
+
+#comillas{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+#firma {
+    text-align: right;
+    font-size: bolder;
+}
+
+.barra {
+    background-color: #6CBE15;
+    padding-top: 5px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    margin-left: 20px; 
+    margin-right: 60%;
+    
+}
+
+footer {
+    background-color: #565555;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-decoration: none;
+   
+    
+}
+
+.pfooter {
+    display: inline-block;
+    color: white;
+    text-align: right;
+    margin-right: 10px;
+   
+    
+}
+
+.afooter {
+    
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+
+li {
+    display: inline-block;
+    padding-right: 5px;
+}
+
+#nosotros {
+    
+    margin-top: 20px;
+    margin-bottom: 30px;
+     
+   
+}
+
+.contenedorcontacto {
+    font-family: sans-serif;
+    width: 50%;
+    border: solid;
+    border-color: dimgrey;
+    border-width: thin;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 25%;
+}
+
+.form {
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+input {
+    background-color: #F2F2F2;
+    border: none;
+    padding-right: 400px;
+    padding-bottom: 10px;
+}
+
+.formtitulo {
+    font-weight: lighter;
+    position: relative;
+    top: -20%;
+    left: 30%;
+}
+
+.enviar {
+    background-color: #6CBE15;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: white;
+}
+
+.flexi {
+    display: flex;
+    justify-content: space-between;
+}
